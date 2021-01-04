@@ -7,7 +7,7 @@
 ```js
 export default () => ({
   askMeAbout: [
-    "Web Development", "Mobile Apps", "Devops",
+    "Web Development", "Mobile Apps", "DevOps",
     "Technology", "Cyber Security"
   ],
   technologies: {
@@ -16,11 +16,11 @@ export default () => ({
       css: ["Bootstrap", "Materialize", "Bulma", "Skeleton"]
     },
     backEnd: {
-      js: ["node", "express"],
-      csharp: ["asp.net core"],
-      php: ["Laravel", "Codeigniter"]
+      js: ["Node", "Express"],
+      csharp: [".NET Core", "Visual Basic.NET"],
+      php: ["Laravel", "CodeIgniter"]
     },    
-    databases: ["Sql Server", "MySql", "Mongo", "Postgres", "Redis", "Sqlite"]
+    databases: ["Microsoft SQL Server", "MySQL", "MongoDB", "PostgreSQL", "Redis", "SQLite"]
   }
 });
 ```
