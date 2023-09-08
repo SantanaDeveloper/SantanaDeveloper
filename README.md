@@ -4,15 +4,19 @@ Desenvolvedor Full Stack ↔ React | React Native | Node | PHP | Cloud
 ## 👨‍💻 Sobre Mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-Sou desenvolvedor de software web e mobile, com experiência  em grandes empresas do
-mercado.
-Iniciei meus estudos em programação no ano de 2010, durante minha adolescência me
-tornei apaixonado por tecnologia e diariamente busco aprender as novidades da área.
-Minhas principais skills são com a linguagem Javascript e todo o seu ecossistema.
-Trabalho com ReactJS, React Native, Typescript, Node, C#, PHP, AWS, CSS e Otimização 
-de SEO.
-Me considero uma pessoa focada, de fácil adaptação independente do cenário e apto
-para encarar qualquer desafio.
+Desenvolvedor Full Stack com uma paixão duradoura por tecnologia.
+
+Meu início no mundo da programação começou em 2010 quando eu tinha 12 anos, e desde então, tenho trabalhado para me manter atualizado com as últimas tendências e inovações do setor.
+
+Durante minha trajetória profissional, tive a oportunidade de desempenhar papéis significativos em algumas das maiores instituições financeiras bancárias do mercado brasileiro, como o Banco do Brasil e o BTG Pactual. Em particular, destaco um feito que me enche de orgulho: minha contribuição para melhorar a acessibilidade no aplicativo do Banco do Brasil.
+
+Trabalhando de perto com a equipe, dediquei meu tempo e conhecimento para tornar o aplicativo mais inclusivo, garantindo uma experiência de uso aprimorada para deficientes visuais. Esse projeto reforçou minha crença na importância da tecnologia para promover a igualdade de acesso a serviços digitais, e estou comprometido em continuar contribuindo para iniciativas de acessibilidade.
+
+Tenho uma vasta experiência trabalhando com uma ampla gama de tecnologias, incluindo ReactJS, React Native, AngularJS, Typescript, Node, C#, Python e PHP. Além disso, sou proficiente em plataformas em nuvem como AWS e Azure, domino a arte do CSS e tenho conhecimentos sólidos em SEO.
+
+Minha abordagem para desafios é caracterizada pela minha determinação e adaptabilidade. Independentemente do cenário ou obstáculo, estou pronto para enfrentá-lo com confiança e criatividade.
+
+Estou em busca de novos horizontes e oportunidades para contribuir com meu conhecimento e habilidades no campo da tecnologia. Se você procura um profissional com experiência, paixão e determinação não hesite em entrar em contato comigo.
 
 ## 🚀 Minhas Skills
 
