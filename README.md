@@ -1,5 +1,5 @@
 ## 👋 Olá, meu nome é <strong>João Paulo Santana</strong>
-Desenvolvedor Full Stack ↔ React | React Native | Node | PHP | Cloud
+Full Stack Developer | ReactJS | React Native | Node | Javascript | C# | Python | Cloud
 
 ## 👨‍💻 Sobre Mim
 
